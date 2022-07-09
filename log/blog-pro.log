@@ -1,0 +1,4 @@
+2022-06-30 21:28:25.987  INFO 23696 --- [restartedMain] com.star.MyblogApplication               : Starting MyblogApplication using Java 1.8.0_291 on DESKTOP-T06NQ7T with PID 23696 (D:\java study\jywangBlog\target\classes started by Administrator in D:\java study\jywangBlog)
+2022-06-30 21:28:25.989  INFO 23696 --- [restartedMain] com.star.MyblogApplication               : The following 1 profile is active: "pro"
+2022-06-30 21:28:26.821  WARN 23696 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.star]' package. Please check your configuration.
+2022-06-30 21:28:27.919  INFO 23696 --- [restartedMain] com.star.MyblogApplication               : Started MyblogApplication in 2.557 seconds (JVM running for 3.747)
